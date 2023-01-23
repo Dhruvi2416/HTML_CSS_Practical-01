@@ -407,3 +407,8 @@ nav {
     padding-top: 75px;
 }
 
+.picture{
+    justify-content: center;
+    align-items: center;
+}
+
